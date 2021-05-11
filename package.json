@@ -125,7 +125,7 @@
     "mime-db": "^1.44.0",
     "locate-path": "^5.0.0",
     "mimic-response": "^1.0.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "latest-version": "^5.1.0",
     "minimist": "^1.2.5",
     "morgan": "^1.10.0",
